@@ -1,0 +1,6 @@
+cis2750 F17 A0
+
+= compilation =
+make string/struct
+make runstring/runstruct
+make clean
